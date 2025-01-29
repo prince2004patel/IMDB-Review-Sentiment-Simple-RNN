@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorboard
+streamlit
+flask
+keras
+scikeras
+# ann_env used
